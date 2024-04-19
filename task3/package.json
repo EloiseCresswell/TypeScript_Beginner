@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
